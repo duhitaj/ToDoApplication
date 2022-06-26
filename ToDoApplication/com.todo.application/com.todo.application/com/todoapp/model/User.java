@@ -2,10 +2,7 @@ package com.todoapp.model;
 
 import java.io.Serializable;
 
-/**
- * JavaBean class used in jsp action tags.
- * @author Ramesh Fadatare
- */
+
 public class User implements Serializable {
 	private static final long serialVersionUID = 1L;
 	private String firstName;
