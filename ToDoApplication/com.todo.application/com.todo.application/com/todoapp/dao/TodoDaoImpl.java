@@ -11,13 +11,7 @@ import java.util.List;
 import com.todoapp.model.Todo;
 import com.todoapp.utils.JDBCUtils;
 
-/**
- * This DAO class provides CRUD database operations for the table todos in the
- * database.
- * 
- * @author Ramesh Fadatare
- *
- */
+
 
 public class TodoDaoImpl implements TodoDao {
 
